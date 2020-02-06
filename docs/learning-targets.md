@@ -6,9 +6,8 @@ layout: tabbed-assignment
 
 By the end of this lesson, you will be able to:
 
-* 
-* 
-* 
+* Use the GameLab coordinate system to place elements where you want them on the screen.
+* Sequence code correctly to overlay shapes.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
