@@ -4,9 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<img class="overview-image" src="">
+<img class="overview-image" src="assets/images/step-9-screen-capture.png">
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+This lesson is an introduction to GameLab, Code.Org's online JavaScript IDE. You'll learn the coordinate system and the first component of algoritms: ordering instructions.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
